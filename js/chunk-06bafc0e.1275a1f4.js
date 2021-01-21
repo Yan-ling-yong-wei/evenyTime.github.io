@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-06bafc0e"],{"2b0f":function(e,n,t){},"75e2":function(e,n,t){"use strict";t("2b0f")},ffe0:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"danPresent"},[e._v(" 确认订单 ")])},s=[],u=(t("75e2"),t("5d22")),a={},f=Object(u["a"])(a,c,s,!1,null,"1308164c",null);n["default"]=f.exports}}]);
+//# sourceMappingURL=chunk-06bafc0e.1275a1f4.js.map
